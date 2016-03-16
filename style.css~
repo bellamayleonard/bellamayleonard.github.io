@@ -1,0 +1,342 @@
+/*VERTICAL COLORS*/
+body {
+ background-color: #000000;
+ color: #A9F5E1;
+ padding: 0;
+ margin: 0 0 0 0;
+ font: 1.em Arial narrow;
+ line-height: 1.6em;
+}
+
+
+
+
+
+/*TITLE BAGROUND*/
+.header {
+	background: #000000;
+	color: #A9F5E1;
+	width: 950px;
+	height: 50px;
+	margin: 0px;
+
+}
+
+/*Bella May Leonard COLOR*/
+.header .title {
+    padding: 10px 0 0px 0px;
+    text-align:left;
+	color: #0174DF;
+	font: 3em Arial narrow;
+}
+
+
+/*AFFILIATION COLOR*/
+.header .slogan {
+    padding: 10px 0 0px 0px;
+        text-align:left;
+	color: #2E9AFE;
+	font: 0.5em Arial narrow;
+}
+
+
+
+
+/*NAVIGATOR BAR*/
+#nav {
+   width: none;
+	background: #000000;
+	height: 77px;
+	text-align:left;
+
+}
+
+
+
+#nav ul {
+	  position: relative;
+	  display:;
+	  text-align:left;
+	  list-style:none;
+	      	  padding: 10px;
+	margin:  0px 0px 0px 0px;
+	  
+	}
+
+#nav a {
+
+    display:table;
+    color:#2E9AFE;
+     	padding: 35px;
+	margin: 0px 0px 0px 0px;
+    text-decoration:none;
+    font-weight:none;
+font: 1em Arial narrow;}
+
+
+
+
+/*CURSOR IN NAVIGATOR BAR*/
+#nav #current a {
+  display:table;
+    background: #000000;
+    color:#FF0040; }
+
+
+
+
+
+
+
+#nav li {
+    float:left;
+    color: #000000;
+    }
+
+
+
+#nav ul ul{
+    width:370px;
+ padding: 0 0 10px 0;
+  -webkit-padding-after:10px;
+    position:absolute;
+    display:table;
+    visibility: hidden;
+
+    }
+
+/*Important for the ONE colone layout*/
+#nav ul ul a { 
+    width:350px;
+    padding:10px -10px 10px 10px;
+    text-align:center;
+
+}
+
+/*Important for the ONE colone layout, color filled*/
+#nav ul ul li { 
+    width:370px;
+
+}
+
+
+
+
+.col1 {
+    float: left;
+    width:33%;
+}
+.col2 {
+    float: left;
+    width:33%;}
+.col3 {
+    float: right;
+    width:33%;}
+
+/*************************************/
+
+
+#nav ul li ul {
+  opacity: 0;
+  visibility:hidden;
+  
+    -webkit-transition-duration: 0.2s;
+    -webkit-transition-delay: 0.2s;
+    
+    -moz-transition-duration: 0.2s;
+    -moz-transition-delay: 0.2s;
+    /* Standard syntax */
+    transition-duration: 0.2s;
+    transition-delay: 0.2s;
+
+}
+
+
+
+#nav ul li:hover ul {
+    margin: 13.5px 0px 0px 0px;
+  opacity: 1;
+  visibility: visible;
+  height: inherit;
+  background:#000000;
+}
+
+
+
+
+
+#nav a:hover {
+    color:#FA58AC;
+}
+
+#nav ul li:hover a{
+    color:#FA58AC;
+}
+
+#nav ul li:hover ul li a{
+    color:#00BFFF;
+}
+
+#nav ul li:hover ul:hover li:hover a{
+    color:#FF0040;
+}
+
+/*current tab*/
+
+
+#nav #current ul:hover li:hover ul li a{
+    color:#00BFFF;
+}
+
+#nav #current ul li:hover a{
+    color:#00BFFF;
+}
+
+#nav #current ul a{
+    color:#00BFFF;
+}
+
+
+
+
+
+
+
+/*TITLES IN THE BODY*/
+h2 {
+    font: 1.5em Arial narrow;
+    color: #00BFFF;
+    letter-spacing: -1px; }
+
+
+/*FONT FOR SLOGAN*/
+h3 { font: 0.85em Arial narrow; }
+
+
+
+
+/*FONT FOR Commandline*/
+hc { font-family: Consolas;
+     background: #000000;
+   }
+
+.code { 
+     text-align: left;
+background: #000000;
+    font-family: Consolas;
+	color: #000000;
+}
+
+
+/*FONT FOR HYPERLINKS*/
+a { color: inherit; background: inherit; }
+
+
+
+/*FONT FOR TEXT BODY*/
+h1w { font: 1.3em Arial narrow;
+     color: #303030;
+     text-align: left;
+   }
+
+h1 { font: 1.3em Arial narrow;
+     color: #303030;
+     text-align: justify;
+   }
+
+
+
+
+
+
+
+h4 {
+    font: 1.7em Arial narrow;
+   color: #FF3366;}
+
+
+hst {
+    font: 1.5em Arial narrow;
+   color: #FF3366;}
+
+
+
+/*SPACE*/
+ml { margin-left: 30px;
+   }
+
+/*class for contact*/
+.text_padding_contact {
+    
+    background-color: #FFF;
+    float: center;
+    color: #000;
+    padding:0 150px 10px 150px;
+    
+}
+
+
+.content { 
+    background: #FFF; 
+	margin: 0 auto;
+	padding: 0px;
+	width: 950px;
+	color: #000;
+}
+
+
+
+
+.main_content {
+	background: #000000 ;
+	background-color: #000000;
+	width: 950px;
+	margin:0px;
+	padding:0px;
+
+}
+
+
+
+
+
+.sd_left {
+
+    background-color: #000000;
+    float: left;
+	color: #000;
+	width: 640px;
+	height:510px;
+	padding: 0 15px 0px 15px; 
+	
+}	
+
+.sd_right {
+
+    background-color: #000000;
+    float: right;
+	color: #000;
+	width: 264px;
+		height:510px;
+	border-left: 1px dashed #303030;
+	padding:0 0 0 15px;
+}	
+
+
+.text_padding {
+    
+    background-color: #000000;
+    float: center;
+    color: #000000;
+    padding:0 15px 10px 15px;
+    
+}
+
+
+
+
+.date { 
+    text-align: right;
+    Color: #B0B0B0;
+	border-top: 1px solid #303030;
+}
