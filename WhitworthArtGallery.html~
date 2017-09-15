@@ -27,7 +27,6 @@
 
 
 <!-----------NAVIGATOR------>
-<!-----------NAVIGATOR------>
 
       
   <div id="nav">
@@ -64,34 +63,45 @@
 	<li><a href="V&ASanctuarySession.html">V&A Sanctuary Session</a></li>	
 	<li><a href="Embroiderers'GuildSummerSchool.html">Embroiderers' Guild Summer School</a></li>
 	<li><a href="ImperialWarMuseumNorth.html">Imperial War Museum North</a></li>
-	<li><a href="Mistletoe.html">Mistletoe</a></li>
 </ul>
       <li><a href="CV.html">CV</a></li>
      </div>
-
 
   <hr>
 <!-----------NAVIGATOR------>
 
 
-  
+  <div class="main_content">
+    <div class="sd_right">
  <h2>Contact</h2>
 
 <h1w>
-		<img src="images/timeicon.gif" alt="" /> <a href=https://twitter.com/BellaMayLeonard">@BellaMayLeonard</a><br />
+        <img src="images/timeicon.gif" alt="" /> <a href="bellamayleonard@gmail.com">bellamayleonard@gmail.com
+
+	<img src="images/timeicon.gif" alt="" /> <a href=https://twitter.com/BellaMayLeonard">@BellaMayLeonard</a><br />
 
 		<img src="images/timeicon.gif" alt="" /> <a href="https://www.facebook.com/BellaMayLeonard/">FB: Bella May Leonard</a>
-
+	
 </h1w>
 
-        
-    <div class="sd_left">
-      <h2>Curriculum Vitae</h2>
-      <h1w>
-	<h1> <img src="file:///Users/Bella/Documents/WEBSITE/bellamayleonard.github.io/Images/CV/CV%20Bella%20May%20Leonard.pdf" title="Bella May Leonard.CV" alt="Bella May Leonard.CV" height=500>
-	   
-<h1/>
+    </div>
 
+    
+    <div class="sd_left">
+     
+<h2>Whitworth Art Gallery 2014/2015</h2>
+<h3>Artist in residence working towards the gallery opening in February 2015.  This also involved devising and delivering six 'WYC Makes' workshops for 15 - 25 yr olds.</h3> 
+</a><br/>
+      <h2>
+<img src="https://s-media-cache-ak0.pinimg.com/564x/c9/5e/c7/c95ec74414fd8aa7b1afa915b26eb723.jpg" title="Bella May Leonard. The Whitworth Art Gallery 2015" alt="Bella May Leonard. The Whitworth Art Gallery 2015" height=300>
+
+<img src="https://s-media-cache-ak0.pinimg.com/564x/a1/a5/6b/a1a56b3df44270acbafe80ac7daac812.jpg" title="Bella May Leonard. The Whitworth Art Gallery 2015" alt="Bella May Leonard. The Whitworth Art Gallery 2015" height=300>
+
+
+<video width="320" height="240" controls>
+  <source src="https://vimeo.com/160598544" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 

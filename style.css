@@ -1,11 +1,11 @@
 /*VERTICAL COLORS*/
 body {
- background-color: #000000;
- color: #A9F5E1;
+ background-color: #FFFFFF;
+ color: #000000;
  padding: 0;
  margin: 0 0 0 0;
- font: 1.em Arial narrow;
- line-height: 1.6em;
+ font: 1.em Avenir Next;
+ line-height: 3em;
 }
 
 
@@ -14,29 +14,29 @@ body {
 
 /*TITLE BAGROUND*/
 .header {
-	background: #000000;
-	color: #A9F5E1;
-	width: 950px;
+	background: #FFFFFF;
+	color: #000000;
+	width: 800px;
 	height: 50px;
-	margin: 0px;
+	margin: 20px;
 
 }
 
-/*Bella May Leonard COLOR*/
+/*BELLA MAY LEONARD COLOR*/
 .header .title {
     padding: 10px 0 0px 0px;
-    text-align:left;
-	color: #0174DF;
-	font: 3em Arial narrow;
+    text-align:center;
+	color: #000000;
+	font: 2.5em Avenir Next;
 }
 
 
 /*AFFILIATION COLOR*/
 .header .slogan {
-    padding: 10px 0 0px 0px;
-        text-align:left;
-	color: #2E9AFE;
-	font: 0.5em Arial narrow;
+    padding: 100px 0 0px 0px;
+        text-align:center;
+	color: #000000;
+	font: 0.4em Avenir Next;
 }
 
 
@@ -44,42 +44,43 @@ body {
 
 /*NAVIGATOR BAR*/
 #nav {
-   width: none;
-	background: #000000;
-	height: 77px;
-	text-align:left;
+        width: 850px;
+	background: #FFFFFF;
+	height: 0px;
+	text-align:center;
 
 }
 
 
-
+/*LINE ABOVE NAVIGATOR BAR*/
 #nav ul {
 	  position: relative;
-	  display:;
-	  text-align:left;
+	  display:center ;
+	  text-align:center;
 	  list-style:none;
 	      	  padding: 10px;
-	margin:  0px 0px 0px 0px;
+	margin:  0px 0px 0px 40px;
 	  
 	}
 
+/*TITLES IN NAVIGATOR BAR*/
 #nav a {
 
     display:table;
-    color:#2E9AFE;
-     	padding: 35px;
-	margin: 0px 0px 0px 0px;
+    color:#000000;
+     	padding: 20px;
+	margin: 10px 0px 0px 0px;
     text-decoration:none;
     font-weight:none;
-font: 1em Arial narrow;}
+font: 1.3em Avenir Next;}
 
 
 
 
-/*CURSOR IN NAVIGATOR BAR*/
+
 #nav #current a {
   display:table;
-    background: #000000;
+    background: #FFFFFF;
     color:#FF0040; }
 
 
@@ -90,14 +91,15 @@ font: 1em Arial narrow;}
 
 #nav li {
     float:left;
-    color: #000000;
+    color: #FFFFFF;
     }
 
 
 
+/*SUB HEADINGS IN NAVIGATOR BAR*/
 #nav ul ul{
-    width:370px;
- padding: 0 0 10px 0;
+    width:00px;
+ padding: 00px 0px 0px 0px;
   -webkit-padding-after:10px;
     position:absolute;
     display:table;
@@ -107,15 +109,15 @@ font: 1em Arial narrow;}
 
 /*Important for the ONE colone layout*/
 #nav ul ul a { 
-    width:350px;
-    padding:10px -10px 10px 10px;
+    width:300px;
+    padding:0px -10px 0px 0px;
     text-align:center;
 
 }
 
 /*Important for the ONE colone layout, color filled*/
 #nav ul ul li { 
-    width:370px;
+    width:350px;
 
 }
 
@@ -140,14 +142,14 @@ font: 1em Arial narrow;}
   opacity: 0;
   visibility:hidden;
   
-    -webkit-transition-duration: 0.2s;
-    -webkit-transition-delay: 0.2s;
+    -webkit-transition-duration: 0.1s;
+    -webkit-transition-delay: 0.1s;
     
-    -moz-transition-duration: 0.2s;
-    -moz-transition-delay: 0.2s;
+    -moz-transition-duration: 0.1s;
+    -moz-transition-delay: 0.1s;
     /* Standard syntax */
-    transition-duration: 0.2s;
-    transition-delay: 0.2s;
+    transition-duration: 0.1s;
+    transition-delay: 0.1s;
 
 }
 
@@ -158,7 +160,7 @@ font: 1em Arial narrow;}
   opacity: 1;
   visibility: visible;
   height: inherit;
-  background:#000000;
+  background:#FFFFFF;
 }
 
 
@@ -204,44 +206,55 @@ font: 1em Arial narrow;}
 
 /*TITLES IN THE BODY*/
 h2 {
-    font: 1.5em Arial narrow;
+    font: 1.6em Avenir Next;
+    text-align:center;
     color: #00BFFF;
-    letter-spacing: -1px; }
+    letter-spacing: 1px; 
+    padding: 80px 0px 0px 170px;}
 
 
 /*FONT FOR SLOGAN*/
-h3 { font: 0.85em Arial narrow; }
+h3 { font: 1em Avenir Next;
+     text-align:center;
+     line-height: 1.5em; 
+     }
 
 
 
 
 /*FONT FOR Commandline*/
-hc { font-family: Consolas;
-     background: #000000;
+hc { font-family: Avenir Next;
+     background: #FFFFFF;
    }
 
 .code { 
-     text-align: left;
-background: #000000;
-    font-family: Consolas;
-	color: #000000;
+     text-align: center;
+background: #FFFFFF;
+    font-family: Avenir Next;
+	color: #FFFFFF;
 }
 
 
 /*FONT FOR HYPERLINKS*/
-a { color: inherit; background: inherit; }
+a {     font: 0.9em Avenir Next;
+	color: #6E6E6E; 
+	background: inherit; 
+	text-align: center;
+	letter-spacing: 1px;
+	text-decoration: none;
+ }
 
 
 
 /*FONT FOR TEXT BODY*/
-h1w { font: 1.3em Arial narrow;
+h1w { font: 1em Avenir Next;
      color: #848484;
-     text-align: left;
+     text-align: center;
    }
 
-h1 { font: 1.3em Arial narrow;
+h1 { font: 1em Avenir Next;
      color: #303030;
-     text-align: justify;
+     text-align: center;
    }
 
 
@@ -251,18 +264,18 @@ h1 { font: 1.3em Arial narrow;
 
 
 h4 {
-    font: 1.7em Arial narrow;
+    font: 1em Avenir Next;
    color: #FF3366;}
 
 
 hst {
-    font: 1.5em Arial narrow;
+    font: 1em Avenir Next;
    color: #FF3366;}
 
 
 
 /*SPACE*/
-ml { margin-left: 30px;
+ml { margin-left: 40px;
    }
 
 /*class for contact*/
@@ -280,7 +293,7 @@ ml { margin-left: 30px;
     background: #FFF; 
 	margin: 0 auto;
 	padding: 0px;
-	width: 950px;
+	width: 900px;
 	color: #000;
 }
 
@@ -288,8 +301,8 @@ ml { margin-left: 30px;
 
 
 .main_content {
-	background: #000000 ;
-	background-color: #000000;
+	background: #FFFFFF ;
+	background-color: #FFFFFF;
 	width: 950px;
 	margin:0px;
 	padding:0px;
@@ -302,8 +315,8 @@ ml { margin-left: 30px;
 
 .sd_left {
 
-    background-color: #000000;
-    float: left;
+    background-color: #FFFFFF;
+    float: center;
 	color: #000;
 	width: 640px;
 	height:510px;
@@ -313,22 +326,22 @@ ml { margin-left: 30px;
 
 .sd_right {
 
-    background-color: #000000;
+    background-color: #FFFFFF;
     float: right;
 	color: #000;
-	width: 264px;
+	width: 200px;
 		height:510px;
-	border-left: 1px dashed #303030;
+	border-left: 0.5px dashed #303030;
 	padding:0 0 0 15px;
 }	
 
 
 .text_padding {
     
-    background-color: #000000;
+    background-color: #FFFFFF;
     float: center;
     color: #000000;
-    padding:0 15px 10px 15px;
+    padding:0 15px 0px 15px;
     
 }
 

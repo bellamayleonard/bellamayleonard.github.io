@@ -31,76 +31,73 @@
       
   <div id="nav">
     <ul>
-      <li id="current"><a href="index.html">Home</a></li>
-      <li><a href="CV.html">CV</a></li>
+      <li id="current"><a href="index.html">News</a></li>
       <li><a href="Projects.html">Projects</a>
           <ul>
-	<li><a href="Projects.html#Giepel Brewery">Giepel Brewery</a></li>
-	<li><a href="Projects.html#Ruthin Craft Centre">Ruthin Craft Centre</a></li>
+	<li><a href="IntricaciesofSilence.html"> <img src="file:///Users/Bella/Documents/WEBSITE/bellamayleonard.github.io/Images/Projects/Intricacies%20of%20Silence/IntricaciesofSilence%20BellaMayLeonard%202016.jpg" title="Bella May Leonard 2016, Intricacies of Silence" alt="Bella May Leonard 2016 Intricacies of Silence" width=150></a> </li>
+	<li><a href="Pisces.html"> <img src="file:///Users/Bella/Documents/WEBSITE/bellamayleonard.github.io/Images/Projects/Pisces/Bella%20May%20Leonard%20Pisces%202014.jpeg" title="Bella May Leonard 2014, Pisces" alt="Bella May Leonard 2014 Pisces" width=140></a> </li>
+	<li><a href="R3VEAL.html"><img src="https://s-media-cache-ak0.pinimg.com/564x/0a/a7/a1/0aa7a1de0baccd22506327efc611118b.jpg" title="Bella May Leonard 2015, R3VEAL" alt="Bella May Leonard 2015 R3VEAL" width=150></a> </li>
+	<li><a href="Natashas'Bird.html"><img src="https://s-media-cache-ak0.pinimg.com/564x/da/d1/61/dad16171a8708d980e92020ec730a72e.jpg" title="Bella May Leonard. Natasha's Bird, Embroidery Magazine" alt="Bella May Leonard. Natasha's Bird Embroidery Magazine" width=150></a></li>
+	<li><a href="GeipelBrewery.html"> <img src="https://s-media-cache-ak0.pinimg.com/564x/d0/5b/e2/d05be217d3e8be9bb140d6477106a8f6.jpg"alt="Bella May Leonard. Geipel Brewery, Font Lens 1" width=150></li>
+	<li><a href="UnwantedSouls.html"><img src="https://s-media-cache-ak0.pinimg.com/564x/ea/5d/7d/ea5d7d4f6c2e5f400c4fee77effd414a.jpg" title="Bella May Leonard 2013, Unwanted Souls" alt="Bella May Leonard. Unwanted Souls" width=150></a></li>
+	<li><a href="BrickWork.html"><img src="https://s-media-cache-ak0.pinimg.com/564x/3d/71/f6/3d71f6aa409bb1be81cb998d7cbe5dc3.jpg" title="Bella May Leonard. Brick Work" alt="Bella May Leonard. Brick Work" width=150> </a> </li>
+
+
 	  </ul>
 	  </li>
-      <li><a href="Residencies.html">Teaching</a>
+      <li><a href="Residencies.html">Residencies</a>
       <ul>
-	<li><a href="Resdiencies.html#Mexico">Mexico</a></li>
-	<li><a href="Residencies.html#Ruthin Craft Centre">Ruthin Craft Centre</a></li>
-	<li><a href="Residencies.html#Whitworth Art Gallery">Whitworth Art Gallery</a></li>
-        <li><a href="Residencies.html#Gawthorpe Textiles Collection">Gawthorpe Textiles Collection</a></li>
+	<li><a href="NationalFestivalofMaking.html">National Festival of Making</a></li>
+	<li><a href="Mexico.html">Mexico</a></li>
+        <li><a href="GawthorpeTextilesCollection.html">Gawthorpe Textiles Collection</a></li>
       </ul>
       </li>
       <li><a href="Installations.html">Installations</a>
       <ul>
-	<li><a href="Installations.html#Embroidered Archway">Embroidered Archway</a></li>
-	<li><a href="Installations.html#Generator, Berlin Mitte">Generator, Berlin Mitte</a></li>
-	<li><a href="Installations.html#Green Man Festival">Green Man Festival</a></li>
+	<li><a href="EmbroideredArchway.html"><img src="https://s-media-cache-ak0.pinimg.com/564x/59/98/3d/59983ddeba0c09f71d07ae03a3447b25.jpg" title="Bella May Leonard. Embroidered Archway 2013" alt="Bella May Leonard. Embroidered Archway 2013" height=85></a></li>
+	<li><a href="Generator,BerlinMitte.html"><img src="https://s-media-cache-ak0.pinimg.com/564x/08/7a/14/087a14e1fd68dac6c987f39b1334337b.jpg" title="Bella May Leonard. Generator, Berlin Mitte" alt="Bella May Leonard. Generator, Berlin Mitte" width=100>
+</a></li>
+	<li><a href="GreenManFestival.html"><img src="https://s-media-cache-ak0.pinimg.com/564x/90/69/a5/9069a50f7229b5f82425b51d9902e9eb.jpg" title="Bella May Leonard & Laura Jane Atkinson. Green Man Festival" alt="Bella May Leonard & Laura Jane Atkinson. Green Man Festival" width=150></li>
+	<li><a href="TheZetter.html"><img src="https://s-media-cache-ak0.pinimg.com/564x/96/67/81/966781b98a6e984d403ce750015e5114.jpg" title="Bella May Leonard The Zetter, 2014" alt="Bella May Leonard The Zetter, 2014" width=150></a></li>
       </ul>
-      </li>
-   <li><a href="Contact.html">Contact</a></li>
-    </ul>
-  </div>
+      </li>     <li><a href="Workshops.html">Workshops</a>
+     <ul>
+	<li><a href="ArtFelt.html">ArtFelt</a></li>
+	<li><a href="WhitworthArtGallery.html">Whitworth Art Gallery</a></li>
+	<li><a href="RuthinCraftCentre.html">Ruthin Craft Centre</a></li>
+	<li><a href="V&ASanctuarySession.html">V&A Sanctuary Session</a></li>	
+	<li><a href="Embroiderers'GuildSummerSchool.html">Embroiderers' Guild Summer School</a></li>
+	<li><a href="ImperialWarMuseumNorth.html">Imperial War Museum North</a></li>
+	<li><a href="Mistletoewith&Made.html">Mistletoe with &Made</a></li>
+</ul>
+      <li><a href="CV.html">CV</a></li>
+     </div>
 
   <hr>
 <!-----------NAVIGATOR------>
 
 
-  <div class="main_content">
-    <div class="sd_right">
- <h2>Links</h2>
-
-<h1w>
-        <img src="images/timeicon.gif" alt="" /> <a href="bellamayleonard@gmail.com">bellamayleonard@gmail.com
-
-	<img src="images/timeicon.gif" alt="" /> <a href=https://twitter.com/BellaMayLeonard">Twitter</a><br />
-
-		<img src="images/timeicon.gif" alt="" /> <a href="https://www.facebook.com/BellaMayLeonard/">Facebook</a>
-	
-</h1w>
-
-    </div>
-
     
     <div class="sd_left">
-      <h2>Emboidered</h2>
-      <h1w>
-	This website is dedicated to my research work and research interests, in Cosmology and Quantum gravity.
-<br />
-<br />
-I am in charge of a few exercise and experimental physics classes at <a href="http://www.univ-grenoble-alpes.fr/en/" target="_blank">Grenoble University</a>.
-<br />
-<br />
-You are very welcome to contact me if you have any questions and suggestions concerning the content of this website. Please find my details in <a href="Contact.html">Contact</a> .
+    
+	<h2> <img src="https://twitter.com/BellaMayLeonard" alt="" /> <a href="https://twitter.com/BellaMayLeonard"> @BellaMayLeonard </h2>
+
+                <h1w>
+                  	<img src="images/timeicon.gif" alt="" /> <a href="https://www.facebook.com/events/800496486762858/"  target="_blank"> Co-curating STRUCTURE exhibition at NeoGallery, Bolton.
+</a><br/>
+		<img src="images/timeicon.gif" alt="" /> <a href="http://www.tchc.org.uk/what-we-do/artfelt.html">Workshop for ArtFelt at Sheffield Children's hospital</a> <br />
 </h1w>
 
-<br />
+ <h2>Recent adventures documented <img src="http://bellamayleonard.tumblr.com/" alt="" /> <a href="http://bellamayleonard.tumblr.com/"> here</h2>
 
+
+
+
+<h2> 
+		
+      <h1w> 
 
  
-		<h2>Latest News</h2>
-		
-                <h1w>
-                  	<img src="images/timeicon.gif" alt="" /> <a href="https://www.facebook.com/events/800496486762858/"  target="_blank"> STRUCTURE exhibition at NeoGallery, Bolton.
-</a><br/>
-		<img src="images/timeicon.gif" alt="" /> <a href="http://inspirehep.net/record/1390094"  target="_blank">Primordial scalar power spectrum from the Euclidean Big Bounce</a> <br />
-</h1w>
         <br>
           <br>
             <br>

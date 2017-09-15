@@ -27,7 +27,6 @@
 
 
 <!-----------NAVIGATOR------>
-<!-----------NAVIGATOR------>
 
       
   <div id="nav">
@@ -50,50 +49,59 @@
         <li><a href="GawthorpeTextilesCollection.html">Gawthorpe Textiles Collection</a></li>
       </ul>
       </li>
-      <li><a href="Installations.html">Installations</a>
+      <li id="current"><a href="Installations.html">Installations</a>
       <ul>
 	<li><a href="EmbroideredArchway.html">Embroidered Archway</a></li>
-	<li><a href="Generator,Berlin Mitte.html">Generator, Berlin Mitte</a></li>
-	<li><a href="Green Man Festival.html">Green Man Festival</a></li>
-	<li><a href="The Zetter.html">The Zetter</a></li>
+	<li><a href="Generator,BerlinMitte.html">Generator, Berlin Mitte</a></li>
+	<li><a href="GreenManFestival.html">Green Man Festival</a></li>
+	<li><a href="TheZetter.html">The Zetter</a></li>
       </ul>
-      </li>     <li id="current"><a href="Workshops.html">Workshops</a>
+      </li>     <li><a href="Workshops.html">Workshops</a>
      <ul>
 	<li><a href="WhitworthArtGallery.html">Whitworth Art Gallery</a></li>
 	<li><a href="RuthinCraftCentre.html">Ruthin Craft Centre</a></li>
 	<li><a href="V&ASanctuarySession.html">V&A Sanctuary Session</a></li>	
 	<li><a href="Embroiderers'GuildSummerSchool.html">Embroiderers' Guild Summer School</a></li>
 	<li><a href="ImperialWarMuseumNorth.html">Imperial War Museum North</a></li>
-	<li><a href="Mistletoe.html">Mistletoe</a></li>
 </ul>
       <li><a href="CV.html">CV</a></li>
      </div>
-
 
   <hr>
 <!-----------NAVIGATOR------>
 
 
-  
+  <div class="main_content">
+    <div class="sd_right">
  <h2>Contact</h2>
 
 <h1w>
-		<img src="images/timeicon.gif" alt="" /> <a href=https://twitter.com/BellaMayLeonard">@BellaMayLeonard</a><br />
+        <img src="images/timeicon.gif" alt="" /> <a href="bellamayleonard@gmail.com">bellamayleonard@gmail.com
+
+	<img src="images/timeicon.gif" alt="" /> <a href=https://twitter.com/BellaMayLeonard">@BellaMayLeonard</a><br />
 
 		<img src="images/timeicon.gif" alt="" /> <a href="https://www.facebook.com/BellaMayLeonard/">FB: Bella May Leonard</a>
-
+	
 </h1w>
 
-        
+    </div>
+
+    
     <div class="sd_left">
-      <h2>Curriculum Vitae</h2>
-      <h1w>
-	<h1> <img src="file:///Users/Bella/Documents/WEBSITE/bellamayleonard.github.io/Images/CV/CV%20Bella%20May%20Leonard.pdf" title="Bella May Leonard.CV" alt="Bella May Leonard.CV" height=500>
-	   
-<h1/>
+<h2>Generator, Berlin Mitte</h2>
+<h3>Commissioned sculpture for Generator Hostels in Berlin, Mitte. 2013.</h3>
+      <h2>
+<img src="https://s-media-cache-ak0.pinimg.com/564x/08/7a/14/087a14e1fd68dac6c987f39b1334337b.jpg" title="Bella May Leonard. Generator, Berlin Mitte" alt="Bella May Leonard. Generator, Berlin Mitte" width=350>
+
+
+<img src="https://s-media-cache-ak0.pinimg.com/564x/e6/95/4f/e6954f2095bcf2e1f6fecbbf75590aa7.jpg" title="Bella May Leonard. Generator, Berlin Mitte" alt="Bella May Leonard. Generator, Berlin Mitte" width=350>
 
 
 
+      
+        <br>
+          <br>
+            <br>
 
 
   </div>

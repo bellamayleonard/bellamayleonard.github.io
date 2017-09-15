@@ -27,20 +27,18 @@
 
 
 <!-----------NAVIGATOR------>
-<!-----------NAVIGATOR------>
 
       
   <div id="nav">
     <ul>
       <li><a href="index.html">News</a></li>
-      <li><a href="Projects.html">Projects</a>
+      <li id="current"><a href="Projects.html">Projects</a>
           <ul>
 	<li><a href="GeipelBrewery.html">Geipel Brewery</a></li>
 	<li><a href="UnwantedSouls.html">Unwanted Soles</a></li>
 	<li><a href="R3VEAL.html">R3VEAL</a></li>
-	<li><a href="BrickWork.html">Brick Work</a></li>
 	<li><a href="PrivateCommissions.html">Private Commissions</a></li>
-
+	<li><a href="BrickWork.html">Brick Work</a></li>
 
 	  </ul>
 	  </li>
@@ -57,42 +55,45 @@
 	<li><a href="Green Man Festival.html">Green Man Festival</a></li>
 	<li><a href="The Zetter.html">The Zetter</a></li>
       </ul>
-      </li>     <li id="current"><a href="Workshops.html">Workshops</a>
+      </li>     <li><a href="Workshops.html">Workshops</a>
      <ul>
 	<li><a href="WhitworthArtGallery.html">Whitworth Art Gallery</a></li>
 	<li><a href="RuthinCraftCentre.html">Ruthin Craft Centre</a></li>
 	<li><a href="V&ASanctuarySession.html">V&A Sanctuary Session</a></li>	
 	<li><a href="Embroiderers'GuildSummerSchool.html">Embroiderers' Guild Summer School</a></li>
 	<li><a href="ImperialWarMuseumNorth.html">Imperial War Museum North</a></li>
-	<li><a href="Mistletoe.html">Mistletoe</a></li>
 </ul>
       <li><a href="CV.html">CV</a></li>
-     </div>
 
+     </div>
 
   <hr>
 <!-----------NAVIGATOR------>
 
 
-  
+  <div class="main_content">
+    <div class="sd_right">
  <h2>Contact</h2>
 
 <h1w>
-		<img src="images/timeicon.gif" alt="" /> <a href=https://twitter.com/BellaMayLeonard">@BellaMayLeonard</a><br />
+        <img src="images/timeicon.gif" alt="" /> <a href="bellamayleonard@gmail.com">bellamayleonard@gmail.com
+
+	<img src="images/timeicon.gif" alt="" /> <a href=https://twitter.com/BellaMayLeonard">@BellaMayLeonard</a><br />
 
 		<img src="images/timeicon.gif" alt="" /> <a href="https://www.facebook.com/BellaMayLeonard/">FB: Bella May Leonard</a>
-
+	
 </h1w>
 
-        
+    </div>
+
+    
     <div class="sd_left">
-      <h2>Curriculum Vitae</h2>
-      <h1w>
-	<h1> <img src="file:///Users/Bella/Documents/WEBSITE/bellamayleonard.github.io/Images/CV/CV%20Bella%20May%20Leonard.pdf" title="Bella May Leonard.CV" alt="Bella May Leonard.CV" height=500>
-	   
-<h1/>
-
-
+<h2>Geipel Brewery</h2>
+<h3>Hand embroidered font lenses commissioned by Geipel Brewery, 2013-2015</h3>
+      <h2>
+<img src="https://s-media-cache-ak0.pinimg.com/564x/d0/5b/e2/d05be217d3e8be9bb140d6477106a8f6.jpg"alt="Bella May Leonard. Geipel Brewery, Font Lens 1" width=350>
+<img src="https://s-media-cache-ak0.pinimg.com/564x/dc/84/42/dc8442521e5eb3e777b2648647213e78.jpg" title="Bella May Leonard 2014, Geipel Brewery Font Lens" alt="Bella May Leonard. Geipel Brewery, Font Lens 2" width=350>
+<img src="https://s-media-cache-ak0.pinimg.com/564x/4d/f7/50/4df750813f89be9f26db5d27578b9f2f.jpg" alt="Bella May Leonard. Geipel Brewery, Font Lenses" width=350 height=>
 
 
 

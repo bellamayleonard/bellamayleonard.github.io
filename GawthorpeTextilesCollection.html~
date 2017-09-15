@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+  
+<!-----------HEADLINE IN BROWSER------>
+
+  <head>
+<title>Bella May Leonard</title>
+<meta http-equiv="content-type" content="text/html;charset=iso-8859-2" />
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+
+
+
+<body>
+<div class="content">
+ 
+  <div class="header">
+    <div class="title">Bella May Leonard</div>
+    <div class="slogan"> <i><br><h3/>
+   </div>
+      </div>
+
+
+<!-----------NAVIGATOR------>
+
+      
+  <div id="nav">
+    <ul>
+      <li><a href="index.html">News</a></li>
+      <li><a href="Projects.html">Projects</a>
+          <ul>
+	<li><a href="GeipelBrewery.html">Geipel Brewery</a></li>
+	<li><a href="UnwantedSouls.html">Unwanted Soles</a></li>
+	<li><a href="R3VEAL.html">R3VEAL</a></li>
+	<li><a href="BrickWork.html">Brick Work</a></li>
+	<li><a href="PrivateCommissions.html">Private Commissions</a></li>
+
+
+	  </ul>
+	  </li>
+      <li id="current"><a href="Residencies.html">Residencies</a>
+      <ul>
+	<li><a href="Mexico.html">Mexico</a></li>
+        <li><a href="GawthorpeTextilesCollection.html">Gawthorpe Textiles Collection</a></li>
+      </ul>
+      </li>
+      <li><a href="Installations.html">Installations</a>
+      <ul>
+	<li><a href="EmbroideredArchway.html">Embroidered Archway</a></li>
+	<li><a href="Generator,BerlinMitte.html">Generator, Berlin Mitte</a></li>
+	<li><a href="GreenManFestival.html">Green Man Festival</a></li>
+	<li><a href="TheZetter.html">The Zetter</a></li>
+      </ul>
+      </li>     <li><a href="Workshops.html">Workshops</a>
+     <ul>
+	<li><a href="WhitworthArtGallery.html">Whitworth Art Gallery</a></li>
+	<li><a href="RuthinCraftCentre.html">Ruthin Craft Centre</a></li>
+	<li><a href="V&ASanctuarySession.html">V&A Sanctuary Session</a></li>	
+	<li><a href="Embroiderers'GuildSummerSchool.html">Embroiderers' Guild Summer School</a></li>
+	<li><a href="ImperialWarMuseumNorth.html">Imperial War Museum North</a></li>
+</ul>
+      <li><a href="CV.html">CV</a></li>
+     </div>
+
+  <hr>
+<!-----------NAVIGATOR------>
+
+
+  <div class="main_content">
+    <div class="sd_right">
+ <h2>Contact</h2>
+
+<h1w>
+        <img src="images/timeicon.gif" alt="" /> <a href="bellamayleonard@gmail.com">bellamayleonard@gmail.com
+
+	<img src="images/timeicon.gif" alt="" /> <a href=https://twitter.com/BellaMayLeonard">@BellaMayLeonard</a><br />
+
+		<img src="images/timeicon.gif" alt="" /> <a href="https://www.facebook.com/BellaMayLeonard/">FB: Bella May Leonard</a>
+	
+</h1w>
+
+    </div>
+
+    
+    <div class="sd_left">
+      <h2>Gawthorpe Textiles Collection</h2>
+
+<img src="https://s-media-cache-ak0.pinimg.com/564x/54/fc/bd/54fcbd33dff6be5e5ef9b71c0ea35cbb.jpg" title="Bella May Leonard. Gawthorpe Textiles Collection residency" alt="Bella May Leonard. Gawthorpe Textiles Collection residency" height=250>
+<img src="https://s-media-cache-ak0.pinimg.com/564x/9f/89/dd/9f89dd871e6f593bf38dd54450cab4f6.jpg" title="Bella May Leonard. Gawthorpe Textiles Collection residency" alt="Bella May Leonard. Gawthorpe Textiles Collection residency" height=250>
+
+<img src="https://s-media-cache-ak0.pinimg.com/564x/79/c6/ac/79c6ac18a234b8cd8713dc2f7f0e8212.jpg" title="Bella May Leonard. Gawthorpe Textiles Collection residency" alt="Bella May Leonard. Gawthorpe Textiles Collection residency" height=250>
+
+
+<img src="https://s-media-cache-ak0.pinimg.com/564x/c2/23/82/c22382409c64badfd79b807550233439.jpg" title="Bella May Leonard. Gawthorpe Textiles Collection residency" alt="Bella May Leonard.Gawthorpe Textiles Collection residency" width=300>
+
+<img src="https://s-media-cache-ak0.pinimg.com/564x/c8/eb/51/c8eb51830a8cf0899869185dc36f6a46.jpg" title="Bella May Leonard. Gawthorpe Textiles Collection residency" alt="Bella May Leonard. Gawthorpe Textiles Collection residency" width=300>
+
+
+ 
+		<h2>Online journal written during this residency:</h2>
+		
+                <h1w>
+                  	<img src="images/timeicon.gif" alt="" /> <a href="http://bellamayleonardgawthorpehall.tumblr.com/"  target="_blank"> Gawthorpe Textiles Collection Residency 2013-2014.
+</a><br/>
+</h1w>
+        <br>
+          <br>
+            <br>
+
+
+  </div>
+</div>
+</body>
+</html>
